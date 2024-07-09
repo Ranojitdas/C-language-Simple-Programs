@@ -1,6 +1,6 @@
 # C-language-Simple-Programs
 This repository contains some basic C programs , which is quite helpful to understand the C language concept better . 
-This repository contains programs like - i) Fibonacci series <br>
+This repository contains programs like -<br>i) Fibonacci series <br>
                                         ii) Armstrong number <br>
                                         iii) Prime number from 1 to n <br>
                                         iv) Palindrome number <br>
